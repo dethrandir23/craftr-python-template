@@ -1,0 +1,9 @@
+name: "python"
+version: "1.0.0"
+author: "dethrandir23"
+description: "A python template for craftr"
+
+variables:
+  PROJECT_NAME: "{{PROJECT_NAME}}"
+  AUTHOR_NAME: "{{AUTHOR_NAME}}"
+  DATE: "{{DATE}}"
